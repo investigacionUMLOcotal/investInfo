@@ -4,4 +4,4 @@ nav:
     - Artículos: articulos.md
     - Nosotros: about.md
 
-/*theme: readthedocs*/
+theme: readthedocs
