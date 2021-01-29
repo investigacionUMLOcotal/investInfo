@@ -1,1 +1,7 @@
-site_name: Aplicación Informativa Investigación
+site_name: Área Investigación | Información
+nav:
+    - Inicio : index.md
+    - Artículos: articulos.md
+    - Nosotros: about.md
+
+/*theme: readthedocs*/
