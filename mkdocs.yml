@@ -1,6 +1,8 @@
 site_name: Área Investigación | Información
 nav:
     - Inicio : index.md
+    - Áreas del Conocimiento : areas.md
+    - Líneas de Investigación : lineas.md
     - Artículos: articulos.md
     - Nosotros: about.md
 
