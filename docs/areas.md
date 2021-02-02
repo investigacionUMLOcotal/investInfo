@@ -93,3 +93,78 @@
     - [x] Antropología física.
     - [x] Geografía física y demás ciencias de la tierra.
     - [x] Meteorología y demás ciencias de la atmósfera comprendida la investigación sobre el clima, las ciencias marinas, vulcanología, paleoecología.
+    ### 4.3 Matemáticas y Estadística
+    - [x] Matemáticas.   
+    - [x] Investigación de Operaciones.
+    - [x] Análisis Numérico.
+    - [x] Ciencias actuariales, estadística y otros sectores afines.
+    ### 4.4 Informática
+    - [x] Concepción de sistemas, programación informática.
+    - [x] Procesamiento de datos.
+    - [x] Redes.
+    - [x] Sistemas operativos. Elaboración de programas informáticos solamente (el material y equipo se deben clasificar en el sector de la ingeniería).
+??? summary "5. Ingeniería, Industria y Construcción."
+    ### 5.1 Ingeniería y Profesiones Afines
+    - [x] Dibujo Técnico   
+    - [x] Mecánica
+    - [x] Metalistería
+    - [x] Electricidad
+    - [x] Electrónica
+    - [x] Telecomunicaciones
+    - [x] Ingeniería Energética y Química
+    - [x] Mantenimiento de Vehículos
+    - [x] Topografía
+    ### 5.2 Industria y Producción
+    - [x] Alimentación y bebidas
+    - [x] Textiles
+    - [x] Confección
+    - [x] Calzado
+    - [x] Cuero
+    - [x] Materiales (madera, papel, plástico, vidrio, etc.)
+    - [x] Minería e industrias extractivas
+    ### 5.3 Arquitectura y Construcción
+    - [x] Arquitectura y urbanismo: arquitectura estructural, arquitectura paisajística, planificación comunitaria, cartografía
+    - [x] Edificación
+    - [x] Construcción
+    - [x] Ingeniería civil
+??? summary "6. Agricultura."
+    ### 6.1 Agrucultura, Silvicultura y Pesca
+    - [x] Producción agropecuaria
+    - [x] Agronomía
+    - [x] Ganadería
+    - [x] Horticultura y jardinería
+    - [x] Silvicultura y técnicas forestales
+    - [x] Parques naturales
+    - [x] Flora y fauna
+    - [x] Pesca
+    - [x] Ciencia y tecnología pesqueras
+    ### 6.2 Veterinaria
+    - [x] Veterinaria
+    - [x] Auxiliar de veterinaria
+??? summary "7. Salud y Servicios Sociales."
+    ### 7.1 Medicina
+    - [x] Anatomía
+    - [x]Epidemiologia
+    - [x] Citología
+    - [x] Fisiología
+    - [x] Inmunología e inmunohematología
+    - [x] Patología
+    - [x] Anestesiología
+    - [x] Pediatría
+    - [x] Obstetricia y ginecología
+    - [x] Medicina interna
+    - [x] Cirugía
+    - [x] Neurología
+    - [x] Psiquiatría
+    - [x] Radiología
+    - [x] Oftalmología
+    - [x] Servicios médicos: servicios de salud pública, higiene, farmacia, farmacología, terapéutica, rehabilitación, prótesis, optometría, nutrición. 
+    - [x] Enfermería: enfermería básica, partería.
+    - [x] Servicios dentales: auxiliar de odontología, higienista dental, técnico de laboratorio dental, odontología.
+    ### 7.2 Servicios Sociales
+
+
+
+
+
+
