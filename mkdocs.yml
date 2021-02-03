@@ -2,6 +2,7 @@ site_name: UML Investigación | Información
 nav:
     - Inicio : index.md
     - Áreas del Conocimiento : areas.md
+    - Ejes de Investigación : ejes.md
     - Líneas de Investigación : lineas.md
     - Artículos: articulos.md
     - Nosotros: about.md

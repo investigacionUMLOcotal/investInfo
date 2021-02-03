@@ -144,7 +144,7 @@
 ??? summary "7. Salud y Servicios Sociales."
     ### 7.1 Medicina
     - [x] Anatomía
-    - [x]Epidemiologia
+    - [x] Epidemiologia
     - [x] Citología
     - [x] Fisiología
     - [x] Inmunología e inmunohematología
@@ -178,4 +178,4 @@
     - [x] Criminología
     - [x] Prevención y extinción de incendios
     - [x] Seguridad civil
-    - [x] Educación militar
+    - [x] Educación militar 
