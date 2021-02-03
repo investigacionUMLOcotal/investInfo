@@ -162,9 +162,20 @@
     - [x] Enfermería: enfermería básica, partería.
     - [x] Servicios dentales: auxiliar de odontología, higienista dental, técnico de laboratorio dental, odontología.
     ### 7.2 Servicios Sociales
-
-
-
-
-
-
+    - [x] Asistencia social: asistencia a minusválidos, asistencia a la infancia, servicios para jóvenes, servicios e erontología.
+    - [x] Trabajo social: orientación, asistencia social no clasificados en otra parte.
+??? summary "8. Servicios."
+    ### 8.1 Servicios Personales
+    - [x] Hotelería y restaurantes, viajes y turismo, deportes y actividades recreativas, peluquería, ratamientos de belleza y otros servicios personales: lavandería y tintorería, servicios cosméticos, ciencias del hogar.
+    ### 8.2 Servicios de Transporte
+    - [x] Formación de marinos; oficiales de marina; Náutica, tripulación de aviones; control del tráfico aéreo; ransporte ferroviario; transporte por carretera; servicios postales. 
+    ### 8.3 Protección del Medio Ambiente
+    - [x] Conservación; Vigilancia y protección del medio ambiente; Control de la contaminación atmosférica y del agua .
+    - [x] Ergonomía y seguridad
+    ### 8.4 Servicio de Seguridad
+    - [x] Protección de personas y bienes
+    - [x] Servicios de policía y orden público
+    - [x] Criminología
+    - [x] Prevención y extinción de incendios
+    - [x] Seguridad civil
+    - [x] Educación militar
