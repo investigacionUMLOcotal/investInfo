@@ -2,9 +2,7 @@
 
 ###  Eje estratégico N°1: La investigación; políticas y lineamientos:
 
-    Implementar las políticas de investigación científica que fomenten la actividad
-    investigativa en los sectores estudiantiles y docentes de la universidad.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    a. Implementar las políticas de investigación científica que fomenten la actividad investigativa en los sectores estudiantiles y docentes de la universidad.
 
+
+! [Logo UML](https://github.com/investigacionUMLOcotal/investInfo/blob/main/docs/assets/logoUMLH.png)
