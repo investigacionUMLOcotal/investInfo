@@ -1,3 +1,4 @@
+![Logo UML](assets/logoUMLColor.png#logoEstilo)
 # Introducción
 
 !!! Question "¿Qué es la Investigación para [Universidad Martín Lutero](https://uml.edu.ni)?"
@@ -35,12 +36,3 @@ vinculación universitaria.
 !!! hint "Línea de Investigación"
     ### Aborda problemáticas o áreas de interés de manera generales,   reúne uno  o muchos  proyectos de investigación.
 
-* `mkdocs new [dir-name]` - Create a new project.
-
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
