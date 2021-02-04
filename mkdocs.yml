@@ -2,7 +2,7 @@ site_name: UML Investigación | Información
 nav:
     - Inicio : index.md
     - Áreas del Conocimiento : areas.md
-    - Ejes de Investigación : ejes.md
+    - Ejes Estratégicos : ejes.md
     - Líneas de Investigación : lineas.md
     - Artículos: articulos.md
     - Nosotros: about.md
@@ -53,11 +53,13 @@ markdown_extensions:
 
   - pymdownx.tilde
 
-
+extra_css:
+  - stylesheets/extra.css
 
 
 theme:
   name: material
+  custom_dir: material/overrides
   logo: assets/logoUMLH.png
   /*custom_dir: mkdocs-material/material*/
 
