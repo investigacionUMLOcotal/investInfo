@@ -1,3 +1,6 @@
+![Logo UML](assets/logoUMLColor.png#logoEstilo)
+# Áreas del Conocimiento
+
 * `Educación` 
 * `Humanidades y Artes`
 * `Ciencias Sociales, Educación Comercial y Derecho`
@@ -6,9 +9,6 @@
 * `Agricultura`
 * `Salud y Servicios Sociales`
 * `Servicios`
-
-
-
 ### Clasificación Internacional Normalizada (CINE 2011)
 
 ??? summary "1. Educación"

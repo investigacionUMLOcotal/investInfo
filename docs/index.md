@@ -35,4 +35,3 @@ vinculación universitaria.
     ### Reúnen las diferentes líneas de investigación con sus respectivos proyectos. Los ejes responden a la necesidad de resolver problemas en los ámbitos locales y nacionales, de carácter social, político, económico y cultural.
 !!! hint "Línea de Investigación"
     ### Aborda problemáticas o áreas de interés de manera generales,   reúne uno  o muchos  proyectos de investigación.
-

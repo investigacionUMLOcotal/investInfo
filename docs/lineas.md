@@ -1,5 +1,7 @@
+![Logo UML](assets/logoUMLColor.png#logoEstilo)
+# Líneas de Investigación
 
-!!! note "Definición"
+!!! note "Definición" 
     ### Aborda problemáticas o áreas de interés de manera generales,   reúne uno  o muchos  proyectos de investigación.
 
 

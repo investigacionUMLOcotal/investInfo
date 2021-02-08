@@ -19,6 +19,15 @@ img[src*="#logoEstilo"] {
      margin: 2%;
  }
 
+ .iconosRedes{
+     text-align: right!important;
+     font-size: 1.2em!important;
+}
+
+#areas-del-conocimiento{
+    margin-bottom: 2%!important;
+}
+
  @media screen and (min-width: 768px) {
     #contFoto{
         width: 12%!important;
@@ -31,4 +40,17 @@ img[src*="#logoEstilo"] {
     margin: 1%;
     margin-top: 2%;
 }
+  }
+
+  @keyframes octoUML {
+    0%, 40%, 80%, 100% {
+      transform: scale(1);
+    }
+    20%, 60% {
+      transform: scale(1.15);
+    }
+  }
+
+  .octoUML {
+    animation: octoUML 1000ms infinite;
   }

@@ -56,6 +56,22 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/direcciondeinvestigacionypostgradoUML
+      name: Dirección de Investigación y Posgrado
+    - icon: fontawesome/brands/github
+      link: https://github.com/campus-uml
+      name: Github Investigación Ocotal
+    - icon: fontawesome/brands/slack
+      link: https://uml-ocotal.slack.com
+      name: Slack Investigación Ocotal
+    - icon: fontawesome/brands/youtube
+      link: https://github.com/campus-uml
+      name: Github Investigación Ocotal
+
+
 
 theme:
   name: material
