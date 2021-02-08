@@ -1,3 +1,11 @@
+nav .md-logo{
+  width: 12%;
+}
+nav .md-logo img{
+  width: 100%!important;
+  height: 35px!important;
+}
+
 #titleFot{
     color: gray;
 }

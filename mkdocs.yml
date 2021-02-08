@@ -1,6 +1,6 @@
 site_name: UML Investigación | Información
 nav:
-    - Inicio : index.md
+    - Introducción : index.md
     - Áreas del Conocimiento : areas.md
     - Ejes Estratégicos : ejes.md
     - Líneas de Investigación : lineas.md
