@@ -1,3 +1,11 @@
+nav .md-logo{
+  width: 12%;
+}
+nav .md-logo img{
+  width: 100%!important;
+  height: 35px!important;
+}
+
 #titleFot{
     color: gray;
 }
@@ -33,14 +41,27 @@ img[src*="#logoEstilo"] {
         width: 12%!important;
         margin-right: 2%;
     }
-
-    
- #textFoto{
+   
+  #textFoto{
      font-size: 1.5em;
     margin: 1%;
     margin-top: 2%;
-}
   }
+
+
+
+}
+
+@media screen and (min-width: 375px) and (max-width: 1024px){
+  nav .md-logo{
+    width: 95%;
+  }
+  nav .md-logo img{
+    width: 80%!important;
+    height: 100%!important;
+    margin: 0 auto;
+  }
+}
 
   @keyframes octoUML {
     0%, 40%, 80%, 100% {
