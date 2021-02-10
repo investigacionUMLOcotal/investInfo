@@ -76,7 +76,7 @@ extra:
 theme:
   name: material
   custom_dir: material/overrides
-  logo: assets/images/logoUMLH.png
+  logo: assets/logoUMLH.png
   /*custom_dir: mkdocs-material/material*/
 
   # 404 page
